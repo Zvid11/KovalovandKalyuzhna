@@ -9,10 +9,10 @@ body {
 
 .job-card {
   background-color: #ffffff;
-  border: 2px solid #cbd5e1; /* Сама рамка навколо картки */
-  border-radius: 12px;        /* Заокруглені кути рамки */
-  padding: 16px 20px;         /* Відступи всередині рамки */
-  margin-bottom: 16px;        /* Відступи між картками */
+  border: 2px solid #cbd5e1; 
+  border-radius: 12px;        
+  padding: 16px 20px;        
+  margin-bottom: 16px;       
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
